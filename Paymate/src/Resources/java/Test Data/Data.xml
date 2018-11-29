@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<properties>
+<entry key="URL">https://uat.paymate.co.in/Beta/PMX3.0/Login.aspx</entry>
+<entry key="Username">ravi12@grr.la</entry>
+<entry key="Password">ravi12@grr.la</entry>
+</properties>
